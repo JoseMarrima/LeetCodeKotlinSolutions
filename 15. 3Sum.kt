@@ -22,4 +22,5 @@ fun threeSum(nums: IntArray): List<List<Int>> {
             }
             map[nums[i]] = i
         }
- }
+    }
+}
